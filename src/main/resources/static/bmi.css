@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+.obese{
+	color: red;	
+}
+
+.overweight{
+	color: orange	
+	
+}
+
+.underweight{
+	
+	color: orange;	
+}
+
+
+.normal{
+	color: green;	
+}
+
+h4{
+	
+		background-color: #f2f2f2;
+		margin-top:20px;
+	
+	
+}
+.container{
+	
+	margin-left: 600px;
+
+	
+}
+
+.registration{
+	
+	
+	margin-right: 750px;
+	
+}
+
+
+
+.container-fluids{
+	
+	margin-top: 200px;
+	background-color: #f2f2f2;
+	
+}
+
+.icon-lists,p{
+	
+	margin-left: 600px;
+}
+
+.continue{
+	display:inline-block;
+	
+}
